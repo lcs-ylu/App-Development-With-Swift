@@ -10,9 +10,12 @@
  
  For each of the metrics above, declare either a constant or a variable and assign it a value corresponding to a hypothetical post. Be sure to use proper naming conventions.
  */
-
-
-
-
-
+var likes = 0
+likes = 10
+var comments = 0
+comments = 2
+let year = 2019
+let month = 09
+let day = 27
+print(likes, comments, day, month, year)
 //: [Previous](@previous)  |  page 5 of 10  |  [Next: App Exercise - Fitness Tracker: Constant or Variable?](@next)
